@@ -20,6 +20,8 @@
     "@storybook/addon-docs": "^6.4.0-alpha.18",
     "@storybook/addon-essentials": "^6.4.0-alpha.18",
     "@storybook/addon-links": "^6.4.0-alpha.18",
+    "@storybook/builder-webpack5": "^6.3.4",
+    "@storybook/manager-webpack5": "^6.3.4",
     "@storybook/vue": "^6.4.0-alpha.18",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
@@ -29,7 +31,8 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "vue-loader": "^15.9.7",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "5"
   },
   "eslintConfig": {
     "root": true,
